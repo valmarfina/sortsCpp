@@ -108,7 +108,7 @@ void improved_bubbleSort(int array[], const int SIZE)
 	}
 }
 
-//Сортировка вставками
+//Сортировка вставками(метод простых вставок)
 void insertion_sort(int array[], const int SIZE)
 {
 	/*
